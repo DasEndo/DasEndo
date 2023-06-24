@@ -1,16 +1,27 @@
-### Hi there 👋
+<br>
 
-<!--
-**DasEndo/DasEndo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 style="text-align: center;"><b>Hey, I'm Endo</b></h2>
+<h3 style="text-align: center;">I am currently study to become game developer</h3>
 
-Here are some ideas to get you started:
+<br><hr><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="text-align: center;">
+    <a href=""><img src="icons/github-mark-white.png" width="50px" height="auto"></a>
+    <img src="icons/transparent.png" width="50px" height="auto">
+    <a href=""><img src="icons/2021%20Twitter%20logo%20-%20white.png" width="50px" height="auto"></a>
+    <img src="icons/transparent.png" width="50px" height="auto">
+    <a href=""><img src="icons/Instagram_Glyph_White.png" width="50px" height="auto"></a>
+    <img src="icons/transparent.png" width="50px" height="auto">
+    <a href=""><img src="icons/yt_logo_mono_dark.png" width="50px" height="auto"></a>
+</div>
+
+<br><hr><br>
+
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/DasEndo/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+    <img src="https://raw.githubusercontent.com/DasEndo/github-stats/master/generated/overview.svg#gh-light-mode-only">
+    <img src="https://raw.githubusercontent.com/DasEndo/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+    <img src="https://raw.githubusercontent.com/DasEndo/github-stats/master/generated/languages.svg#gh-light-mode-only">
+</div>
+
+<br>
