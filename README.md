@@ -6,17 +6,29 @@
 <br>
 
 <div align="center">
-    <a href="https://github.com/DasEndo/"><img src="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/github-mark-white.png#gh-dark-mode-only" width="50px" height="auto"></a>
-    <a href="https://github.com/DasEndo/"><img src="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/github-mark.png#gh-light-mode-only" width="50px" height="auto"></a>
+    <a href="https://github.com/DasEndo"><picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/github-mark-white.png">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/github-mark.png">
+        <img src="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/github-mark.png" width="50px" height="auto">
+    </picture></a>
     <img src="icons/transparent.png" width="50px" height="auto">
-    <a href="https://twitter.com/Das3ndo"><img src="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/2021%20Twitter%20logo%20-%20white.png#gh-dark-mode-only" width="50px" height="auto"></a>
-    <a href="https://twitter.com/Das3ndo"><img src="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/2021%20Twitter%20logo%20-%20black.png#gh-light-mode-only" width="50px" height="auto"></a>
+    <a href="https://twitter.com/Das3ndo"><picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/2021%20Twitter%20logo%20-%20white.png">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/2021%20Twitter%20logo%20-%20black.png">
+        <img src="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/2021%20Twitter%20logo%20-%20black.png" width="50px" height="auto">
+    </picture></a>
     <img src="icons/transparent.png" width="50px" height="auto">
-    <a href="https://www.instagram.com/das3ndo/"><img src="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/Instagram_Glyph_White.png#gh-dark-mode-only" width="50px" height="auto"></a>
-    <a href="https://www.instagram.com/das3ndo/"><img src="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/Instagram_Glyph_Black.png#gh-light-mode-only" width="50px" height="auto"></a>
+    <a href="https://www.instagram.com/das3ndo/"><picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/Instagram_Glyph_White.png">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/Instagram_Glyph_Black.png">
+        <img src="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/Instagram_Glyph_Black.png" width="50px" height="auto">
+    </picture></a>
     <img src="icons/transparent.png" width="50px" height="auto">
-    <a href="https://www.youtube.com/@dasendo"><img src="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/yt_logo_mono_dark.png#gh-dark-mode-only" width="50px" height="auto"></a>
-    <a href="https://www.youtube.com/@dasendo"><img src="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/yt_icon_mono_light.png#gh-light-mode-only" width="50px" height="auto"></a>
+    <a href="https://www.youtube.com/@dasendo"><picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/yt_logo_mono_dark.png">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/yt_icon_mono_light.png">
+        <img src="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/yt_icon_mono_light.png" width="50px" height="auto">
+    </picture></a>
 </div>
 
 <br><hr><br>
