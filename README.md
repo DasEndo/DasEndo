@@ -1,7 +1,7 @@
 <hr>
 
 <h1 align="center"><b>Hey, I'm Endo</b></h1>
-<h3 align="center">I am currently study to become game developer</h3>
+<h3 align="center">I am currently studying to become a game developer</h3>
 
 <br>
 
