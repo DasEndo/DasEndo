@@ -6,12 +6,6 @@
 <br>
 
 <div align="center">
-    <a href="https://github.com/DasEndo"><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/github-mark-white.png">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/github-mark.png">
-        <img src="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/github-mark.png" width="50px" height="auto">
-    </picture></a>
-    <img src="icons/transparent.png" width="50px" height="auto">
     <a href="https://twitter.com/Das3ndo"><picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/2021%20Twitter%20logo%20-%20white.png">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/2021%20Twitter%20logo%20-%20black.png">
