@@ -1,26 +1,16 @@
 <hr>
 
-<h3 align="center"><b>Hey, I'm Endo</b></h3>
-<h3 align="center">I am currently studying to become a game developer</h3>
+<img align="right" src="https://i.imgur.com/xBjNsr9.png" width=200>
 
 <div align="center">
-    <a href="https://twitter.com/Das3ndo"><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/2021%20Twitter%20logo%20-%20white.png">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/2021%20Twitter%20logo%20-%20black.png">
-        <img src="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/2021%20Twitter%20logo%20-%20black.png" width="50px" height="auto">
-    </picture></a>
-    <img src="icons/transparent.png" width="50px" height="auto">
-    <a href="https://www.instagram.com/das3ndo/"><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/Instagram_Glyph_White.png">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/Instagram_Glyph_Black.png">
-        <img src="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/Instagram_Glyph_Black.png" width="50px" height="auto">
-    </picture></a>
-    <img src="icons/transparent.png" width="50px" height="auto">
-    <a href="https://www.youtube.com/@dasendo"><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/yt_logo_mono_dark.png">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/yt_icon_mono_light.png">
-        <img src="https://raw.githubusercontent.com/DasEndo/DasEndo/main/icons/yt_icon_mono_light.png" width="50px" height="auto">
-    </picture></a>
+    <h3><b>Hey 👋, I'm Endo</b></h3>
+    <h4>I'm an aspiring game dev from Germany</h4>
+    <li>🏫 I’m currently learning <b>Vue & TailwindCSS</b></li>
+    <li>⚒️ I'm not working on a specific Project at the moment</li>
+    <li>📨 How to reach me: </li><br>
+    <a href="https://twitter.com/Das3ndo"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+    <a href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+    <a href="https://www.instagram.com/das3ndo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 <hr>
