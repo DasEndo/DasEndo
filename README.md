@@ -1,6 +1,6 @@
 <hr>
 
-<img align="right" src="https://i.imgur.com/xBjNsr9.png" width=200>
+<img align="right" src="https://i.imgur.com/xBjNsr9.png" width=185>
 
 <div align="center">
     <h3><b>Hey 👋, I'm Endo</b></h3>
