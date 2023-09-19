@@ -1,6 +1,6 @@
 <hr>
 
-<img align="right" src="https://i.imgur.com/xBjNsr9.png" width=185>
+<img align="right" src="https://i.imgur.com/xBjNsr9.png" width=182>
 
 <div align="center">
     <h3>Hey 👋, I'm Endo</h3>
@@ -50,6 +50,7 @@
 
 <h3 align="center">Other experience</h3>
 <div align="center">
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 </div>
