@@ -18,8 +18,12 @@
 
 <h3 align="center">Stats</h3>
 <div align="center">
-    <img align="middle" src="https://dasendo-github-readme-stats.vercel.app/api/top-langs?username=dasendo&layout=compact&theme=transparent&hide_border=true">
-    <img align="middle" src="https://streak-stats.demolab.com/?user=DasEndo&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="middle" src="https://dasendo-github-readme-stats.vercel.app/api/top-langs?username=dasendo&layout=compact&theme=transparent&hide_border=true&exclude_repo=github-readme-streak-stats,github-readme-stats">
+    </a>
+    <a href="https://git.io/streak-stats">
+        <img align="middle" src="https://dasendo-github-readme-streak-stats.vercel.app/?user=DasEndo&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D">
+    </a>
 </div>
 
 <hr>
