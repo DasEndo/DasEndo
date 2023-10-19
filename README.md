@@ -5,7 +5,6 @@
 <div align="center">
     <h3>Hey 👋, I'm Endo</h3>
     <p><b>I'm an aspiring game dev from Germany</b></p>
-    <!-- TODO: Remove list element dots -->
     <code>🏫 I’m currently learning <b>Vue & TailwindCSS</b></code><br>
     <code>⚒️ I'm not working on a specific Project at the moment</code><br>
     <code>📨 How to reach me: </code><br><br>
@@ -18,12 +17,8 @@
 
 <h3 align="center">Stats</h3>
 <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="middle" src="https://dasendo-github-readme-stats.vercel.app/api/top-langs?username=dasendo&layout=compact&theme=transparent&hide_border=true&exclude_repo=github-readme-streak-stats,github-readme-stats">
-    </a>
-    <a href="https://git.io/streak-stats">
-        <img align="middle" src="https://dasendo-github-readme-streak-stats.vercel.app/?user=DasEndo&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D">
-    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="middle" src="https://dasendo-github-readme-stats.vercel.app/api/top-langs?username=dasendo&layout=compact&theme=transparent&hide_border=true&exclude_repo=github-readme-streak-stats,github-readme-stats"></a>
+    <a href="https://git.io/streak-stats"><img align="middle" src="https://dasendo-github-readme-streak-stats.vercel.app/?user=DasEndo&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D"></a>
 </div>
 
 <hr>
