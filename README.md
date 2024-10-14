@@ -5,19 +5,12 @@
 <div align="center">
     <h3>Hey 👋, I'm Endo</h3>
     <p><b>I'm an aspiring game dev from Germany</b></p>
-    <code>🏫 I’m currently learning <b>C# & Unity</b></code><br>
-    <code>⚒️ Working on my first-semester final project</code><br>
+    <code>🏫 I’m currently learning <b>C++ & OpenGL</b></code><br>
+    <code>⚒️ Planing the game for my major project</code><br>
     <code>📨 How to reach me: </code><br><br>
-    <a href="https://twitter.com/Das3ndo"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+    <a href="https://twitter.com/Das3ndo"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white"></a>
     <a href="https://raw.githubusercontent.com/DasEndo/DasEndo/master/discord.txt"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
     <a href="https://www.instagram.com/das3ndo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>
-
-<hr>
-
-<h3 align="center">Stats</h3>
-<div align="center">
-    <code>currently not available</code>
 </div>
 
 <hr>
