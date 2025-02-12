@@ -5,8 +5,8 @@
 <div align="center">
     <h3>Hey 👋, I'm Endo</h3>
     <p><b>I'm an aspiring game dev from Germany</b></p>
-    <code>🏫 I’m currently learning <b>C++ & OpenGL</b></code><br>
-    <code>⚒️ Planing the game for my major project</code><br>
+    <code>🏫 I’m currently deepening my knowledge of <b>Unreal Engine</b></code><br>
+    <code>⚒️ Working on the game for my diploma</code><br>
     <code>📨 How to reach me: </code><br><br>
     <a href="https://twitter.com/Das3ndo"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white"></a>
     <a href="https://raw.githubusercontent.com/DasEndo/DasEndo/master/discord.txt"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -15,11 +15,17 @@
 
 <hr>
 
-<h3 align="center">Coding environment</h3>
+<h3 align="center">IDE / Editor</h3>
 <div align="center">
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-    <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white">
-    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img src="https://img.shields.io/badge/Rider-black?style=for-the-badge&logo=rider&logoColor=white">
+    <img src="https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellij-idea&logoColor=white">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=">
+</div>
+
+<h3 align="center">Game Engine</h3>
+<div align="center">
+    <img src="https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge&logo=unrealengine&logoColor=white">
+    <img src="https://img.shields.io/badge/Unity-white?style=for-the-badge&logo=unity&logoColor=black">
 </div>
 
 <h3 align="center">Web development experience</h3>
