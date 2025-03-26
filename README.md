@@ -5,8 +5,8 @@
 <div align="center">
     <h3>Hey 👋, I'm Endo</h3>
     <p><b>I'm an aspiring game dev from Germany</b></p>
-    <code>🏫 I’m currently deepening my knowledge of <b>Unreal Engine</b></code><br>
-    <code>⚒️ Working on the game for my diploma</code><br>
+    <code>🏫 Taking a short break from my studies</code><br>
+    <code>⚒️ Working on a small personal project</code><br>
     <code>📨 How to reach me: </code><br><br>
     <a href="https://twitter.com/Das3ndo"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white"></a>
     <a href="https://raw.githubusercontent.com/DasEndo/DasEndo/master/discord.txt"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
