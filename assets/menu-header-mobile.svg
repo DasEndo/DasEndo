@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="272.4" viewBox="0 0 800 454" role="img"><title>Endo — header</title>
+<defs>
+  <radialGradient id="haze" cx="80%" cy="30%" r="80%">
+    <stop stop-color="#191919"/><stop offset="1" stop-color="#080808"/>
+  </radialGradient>
+</defs>
+<rect width="1600" height="1000" fill="url(#haze)"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+  <text x="138" y="127" font-size="17" letter-spacing="5" fill="#949494">DASENDO</text>
+  <text x="128" y="331" font-size="148" font-weight="300" letter-spacing="-7" fill="#e5e5e5">Endo<tspan fill="#747474">.</tspan></text>
+  <text x="138" y="386" font-size="26" fill="#949494">Game development &amp; personal projects.</text>
+  <g fill="#b0b0b0" font-size="35" font-weight="300" letter-spacing=".6">
+    <text x="173" y="523">About me</text>
+    <text x="173" y="623">Toolbox</text>
+    <text x="173" y="723">Say hello</text>
+  </g>
+  <text x="138" y="885" fill="#949494" font-size="19">Germany</text>
+</g>
+<g fill="none" stroke="#777" stroke-width="2"><path d="M139 505l8 8-8 8M139 605l8 8-8 8M139 705l8 8-8 8"/></g>
+</svg>
