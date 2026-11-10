@@ -1,7 +1,5 @@
-<p align="center">
-  <picture><source media="(max-width: 600px)" srcset="assets/menu-header-mobile.svg"><img align="top" src="assets/menu-header.svg" width="900" alt="Endo. Game development &amp; personal projects."></picture><br>
-  <a href="https://dasendo.github.io/about/"><picture><source media="(max-width: 600px)" srcset="assets/menu-about-mobile.svg"><img align="top" src="assets/menu-about.svg" width="900" alt="About me"></picture></a><br>
-  <a href="https://dasendo.github.io/toolbox/"><picture><source media="(max-width: 600px)" srcset="assets/menu-toolbox-mobile.svg"><img align="top" src="assets/menu-toolbox.svg" width="900" alt="Toolbox"></picture></a><br>
-  <a href="https://dasendo.github.io/contact/"><picture><source media="(max-width: 600px)" srcset="assets/menu-connect-mobile.svg"><img align="top" src="assets/menu-connect.svg" width="900" alt="Say hello"></picture></a><br>
-  <picture><source media="(max-width: 600px)" srcset="assets/menu-footer-mobile.svg"><img align="top" src="assets/menu-footer.svg" width="900" alt="Germany."></picture>
-</p>
+<p align="center"><picture><img src="https://profile-puzzle.dasendo.workers.dev/board.svg" align="top" width="416" alt="Shared warehouse puzzle. Use the arrows to push all three crates onto the marked tiles."></picture></p>
+
+<p align="center"><a href="https://profile-puzzle.dasendo.workers.dev/move/left"><picture><img src="https://profile-puzzle.dasendo.workers.dev/button/left.svg" align="top" width="48" alt="Move robot left"></picture></a><a href="https://profile-puzzle.dasendo.workers.dev/move/up"><picture><img src="https://profile-puzzle.dasendo.workers.dev/button/up.svg" align="top" width="48" alt="Move robot up"></picture></a><a href="https://profile-puzzle.dasendo.workers.dev/move/down"><picture><img src="https://profile-puzzle.dasendo.workers.dev/button/down.svg" align="top" width="48" alt="Move robot down"></picture></a><a href="https://profile-puzzle.dasendo.workers.dev/move/right"><picture><img src="https://profile-puzzle.dasendo.workers.dev/button/right.svg" align="top" width="48" alt="Move robot right"></picture></a><a href="https://profile-puzzle.dasendo.workers.dev/reset"><picture><img src="https://profile-puzzle.dasendo.workers.dev/button/reset.svg" align="top" width="48" alt="Reset shared puzzle"></picture></a></p>
+
+<p align="center"><a href="https://dasendo.github.io/">Visit my website ↗</a></p>
